@@ -113,7 +113,7 @@ The mood is mysterious and theatrical.
 
 The default pipeline uses 6 fixed camera angles. You can customize these for different photoshoot styles.
 
-### Current 6-Shot Pattern
+### Current 6-Shot Pattern (Default Tim Workflow)
 
 ```
 ┌─────────────────┬─────────────────┬─────────────────┐
@@ -125,62 +125,317 @@ The default pipeline uses 6 fixed camera angles. You can customize these for dif
 └─────────────────┴─────────────────┴─────────────────┘
 ```
 
+#### Full Descriptions of Current 6 Camera Angles
+
+**Frame 1: High-Fashion Beauty Portrait (Close, Editorial, Intimate)**
+```
+Camera positioned very close to the subject's face, slightly above or slightly
+below eye level, using an elegant offset angle that enhances bone structure and
+highlights key wardrobe elements near the neckline. Shallow depth of field,
+flawless texture rendering, and a sculptural fashion-forward composition.
+```
+
+**Frame 2: High-Angle Three-Quarter Frame**
+```
+Camera positioned overhead but off-center, capturing the subject from a diagonal
+downward angle. This frame should create strong shape abstraction and reveal
+wardrobe details from above.
+```
+
+**Frame 3: Low-Angle Oblique Full-Body Frame**
+```
+Camera positioned low to the ground and angled obliquely toward the subject.
+This elongates the silhouette, emphasizes footwear, and creates a dramatic
+perspective distinct from Frames 1 and 2.
+```
+
+**Frame 4: Side-On Compression Frame (Long Lens)**
+```
+Camera placed far to one side of the subject, using a tighter focal length to
+compress space. The subject appears in clean profile or near-profile, showcasing
+garment structure in a flattened, editorial manner.
+```
+
+**Frame 5: Intimate Close Portrait From an Unexpected Height**
+```
+Camera positioned very close to the subject's face (or upper torso) but slightly
+above or below eye level. The angle should feel fashion-editorial, not
+conventional — offset, elegant, and expressive.
+```
+
+**Frame 6: Extreme Detail Frame From a Non-Intuitive Angle**
+```
+Camera positioned extremely close to a wardrobe detail, accessory, or texture,
+but from an unusual spatial direction (e.g., from below, from behind, from the
+side of a neckline). This must be a striking, abstract, editorial detail frame.
+```
+
+---
+
 ### Alternative Shot Patterns
 
-#### Product-Focused (Accessories/Shoes)
+Below are complete 6-angle patterns for different types of photoshoots. Copy and paste these into your custom workflow template.
+
+---
+
+#### Luxury Accessories Campaign
+
+Best for: Handbags, jewelry, watches, eyewear
+
 ```
-1. Full outfit with product highlighted
-2. Product close-up on model
-3. Product detail macro shot
-4. Product in action/movement
-5. Alternative angle of product
-6. Lifestyle context shot
+1. Hero Product Shot with Model Context
+Camera positioned at eye level, medium shot showing the model holding or wearing
+the accessory prominently. The product is the clear focal point while the model
+provides aspirational context. Clean composition with the accessory at the
+intersection of thirds.
+
+2. Intimate Product-Skin Interaction
+Camera very close, capturing the tactile relationship between product and skin.
+For jewelry: clasp against collarbone. For bags: hand gripping handle. Shallow
+depth of field isolates the product. Texture of both product and skin visible.
+
+3. Graphic Flat-Lay Detail
+Camera positioned directly overhead (bird's eye). Product arranged with
+complementary items in an editorial flat-lay composition. Strong graphic shapes
+and negative space. Studio-perfect lighting revealing material quality.
+
+4. In-Motion Lifestyle
+Camera at waist height capturing the product in natural movement. Model walking,
+turning, or gesturing. Slight motion blur on model, product remains sharp.
+Conveys how the product lives in real moments.
+
+5. Dramatic Low-Angle Hero
+Camera very low, shooting upward. Product appears powerful and desirable.
+Emphasizes sculptural qualities and craftsmanship. Strong rim lighting defines
+edges and premium materials.
+
+6. Macro Craftsmanship Detail
+Extreme close-up of product detail: stitching, clasp mechanism, texture, logo
+engraving. Camera angle reveals three-dimensionality. This frame proves quality
+and justifies luxury positioning.
 ```
 
-#### Movement/Dance Editorial
+---
+
+#### Streetwear / Urban Editorial
+
+Best for: Sneakers, hoodies, graphic tees, urban lifestyle brands
+
 ```
-1. Static pose establishing shot
-2. Mid-motion blur capture
-3. Peak action freeze
-4. Floor-level dynamic angle
-5. Overhead bird's eye
-6. Silhouette backlit
+1. Environmental Full-Body Power Shot
+Camera at hip height, wide angle capturing full outfit in urban context. Concrete,
+graffiti, or architectural elements visible. Model in confident stance. The
+environment is as important as the clothing.
+
+2. Low-Angle Sneaker Hero
+Camera almost at ground level, shooting upward. Sneakers dominate the frame with
+the outfit towering above. Dramatic perspective elongates the figure. Urban
+ground texture visible.
+
+3. Action Walking Shot
+Camera tracking the model mid-stride. Slight motion energy in the frame. Clothing
+moves naturally. Captures the outfit as it's meant to be worn — in motion, on
+the street.
+
+4. Over-Shoulder Environmental POV
+Camera behind and slightly above the model's shoulder, revealing both the back
+of the outfit and the urban landscape ahead. Creates narrative and journey.
+Back graphics or details visible.
+
+5. Detail Stack — Layering Focus
+Camera medium-close on the torso, emphasizing layering: jacket over hoodie over
+tee. How pieces work together. Textures and logos visible. Diagonal composition
+creates energy.
+
+6. Crew/Culture Moment
+Camera captures a candid-feeling interaction — checking phone, adjusting cap,
+leaning against wall. Authentic gesture that grounds the fashion in real
+culture. Less posed, more lived-in.
 ```
 
-#### Portrait-Heavy (Beauty Campaign)
+---
+
+#### Beauty / Makeup Campaign
+
+Best for: Cosmetics, skincare, beauty brands
+
 ```
-1. Classic beauty headshot
-2. Three-quarter face, dramatic lighting
-3. Profile silhouette
-4. Eyes detail close-up
-5. Lips/makeup detail
-6. Hair texture close-up
+1. Classic Beauty Portrait — The Hero Face
+Camera at eye level, perfectly centered, close crop on face. Flawless skin
+visible. Makeup is the star. Eyes engage directly with camera. Even, beauty
+lighting with minimal shadows. This is the campaign hero shot.
+
+2. Three-Quarter Dramatic Lighting
+Camera slightly to the side, Rembrandt or loop lighting creates dimension.
+Cheekbone highlighted, one side of face in soft shadow. Shows how makeup
+performs in dimensional light. Sophisticated and editorial.
+
+3. Pure Profile Silhouette
+Camera perpendicular to face, clean profile view. Emphasizes lip line, nose,
+brow arch. Can be dramatically lit from behind for silhouette or softly lit
+to show product on profile. Timeless beauty angle.
+
+4. Eyes Macro — The Window Shot
+Extreme close-up framing just the eyes and brows. Captures mascara, eyeshadow,
+liner in exquisite detail. Catch lights in eyes. Skin texture visible but
+flattering. May include partial nose bridge.
+
+5. Lips & Chin Detail
+Close crop on lower face: lips, chin, partial cheeks. Lipstick or gloss is
+the hero. Slight parting of lips. Skin appears luminous. Angle slightly
+below to emphasize lip shape.
+
+6. Texture & Glow — Skin Close-Up
+Macro shot of cheek or forehead showing skin texture and product glow.
+Highlighter, foundation, or skincare visible on skin. Proves product
+performance. Almost abstract in its closeness.
 ```
 
-#### Streetwear/Urban
+---
+
+#### Movement / Dance Editorial
+
+Best for: Activewear, performance wear, dynamic fashion
+
 ```
-1. Full body urban context
-2. Low angle power pose
-3. Action walking shot
-4. Detail on sneakers/accessories
-5. Over-shoulder environmental
-6. Candid interaction
+1. Static Tension — The Calm Before
+Camera at full-body distance, model in held pose suggesting imminent movement.
+Muscles engaged, weight loaded. The outfit at rest but charged with potential.
+Clean studio or contextual background.
+
+2. Peak Action Freeze
+Camera captures the apex of movement — highest jump, fullest extension,
+sharpest turn. Frozen in perfect clarity. Outfit performs under stress.
+Dynamic lines and shapes. High shutter speed aesthetic.
+
+3. Motion Blur Expressionism
+Camera uses slower exposure, model in movement. Intentional blur conveys
+speed and energy. Some elements sharp (face or key garment), others ghosted.
+Artistic interpretation of motion.
+
+4. Floor-Level Dynamic Angle
+Camera on the ground shooting upward as model moves overhead or nearby.
+Unusual perspective creates drama. Emphasizes verticality and athleticism.
+Footwear and lower garments prominent.
+
+5. Overhead Bird's Eye Choreography
+Camera directly above, shooting down. Model on floor in dynamic pose or
+mid-movement. Creates graphic shapes with limbs and fabric. Unexpected
+angle reveals garment construction from above.
+
+6. Silhouette Backlit Drama
+Camera facing into strong backlight, model between camera and light source.
+Figure becomes silhouette with rim lighting on edges. Movement implied in
+pose. Fabric translucency possible. Theatrical and iconic.
 ```
+
+---
+
+#### Intimate / Lingerie Editorial
+
+Best for: Intimates, loungewear, body-positive campaigns
+
+```
+1. Soft Portrait — Face & Décolletage
+Camera close, capturing face and upper chest. Soft, diffused lighting wraps
+the form. Expression is confident and comfortable. Garment neckline or strap
+detail visible. Intimate but not overtly sexual.
+
+2. Full-Figure Confidence
+Camera at medium distance, full body visible. Model in natural, comfortable
+pose — sitting, reclining, standing relaxed. Celebrates the body in the
+garment. Soft shadows define form without harsh contrast.
+
+3. Back Architecture
+Camera behind the model, capturing the back of garment — strap details,
+closures, how fabric drapes from shoulders. Model looking over shoulder
+optional. Reveals construction and design from unexpected angle.
+
+4. Fabric & Skin Texture
+Camera very close, capturing where fabric meets skin. Lace edge, elastic
+line, satin sheen against body. Tactile and sensual without explicit.
+Shallow focus, warm tones.
+
+5. Natural Movement — Caught Moment
+Camera captures a gesture: adjusting strap, running hand through hair,
+mid-laugh. Feels candid rather than posed. Garment moves with body
+naturally. Lifestyle authenticity.
+
+6. Detail & Craftsmanship
+Macro focus on construction detail: embroidery, seaming, hardware,
+pattern. Proves quality and design intention. Almost product-shot in
+precision but on body for context.
+```
+
+---
+
+#### E-Commerce / Catalog Standard
+
+Best for: Multi-SKU product shoots, consistent brand imagery
+
+```
+1. Full-Body Front — The Primary Shot
+Camera at chest height, straight-on, full body visible with space above
+and below. Model in neutral stance, arms slightly away from body. Clean
+white or grey background. The essential product shot — clear, accurate,
+shoppable.
+
+2. Full-Body Back
+Camera behind model, same framing as front. Reveals back of garment —
+closures, back design, how it drapes. Model's head may turn slightly.
+Matches front shot for easy comparison.
+
+3. Full-Body Three-Quarter
+Camera 45 degrees to model's front, full body. Shows dimensional fit —
+how garment curves around body. Side seams, pocket positions visible.
+More dynamic than front/back while remaining clear.
+
+4. Detail Shot — Key Feature
+Camera close on the most important design element: collar, cuff, pocket,
+logo placement, unique construction. The "zoom" shot for online product
+pages. Sharp focus, accurate color.
+
+5. Fabric Texture Swatch
+Extreme close-up showing material quality, weave, print detail, or
+finish. Almost abstract. Proves fabric hand and quality. Essential
+for customer confidence in online shopping.
+
+6. Lifestyle Context
+Camera wider, showing garment in suggested use environment. Office,
+casual, evening context appropriate to product. Helps customer imagine
+wearing. Slightly more styled than pure e-comm shots.
+```
+
+---
 
 ### How to Edit Camera Angles
 
-Edit the `CONTACT_SHEET_PROMPT` in `tim-workflow-templates.md`:
+Edit the `CONTACT_SHEET_PROMPT` in `tim-workflow-templates.md`. Replace the "Required 6-Frame Shot List" section:
 
 ```markdown
 Required 6-Frame Shot List (All Resting Frames)
 
-1. [YOUR FIRST SHOT DESCRIPTION]
-Camera positioned [position details], using [angle/lens details].
-This frame should [purpose and what it reveals].
+1. [YOUR SHOT NAME]
+[Full description of camera position, angle, lens feel, purpose,
+and what this frame should reveal about the subject/garment]
 
-2. [YOUR SECOND SHOT DESCRIPTION]
-...
+2. [YOUR SHOT NAME]
+[Full description...]
+
+3. [YOUR SHOT NAME]
+[Full description...]
+
+4. [YOUR SHOT NAME]
+[Full description...]
+
+5. [YOUR SHOT NAME]
+[Full description...]
+
+6. [YOUR SHOT NAME]
+[Full description...]
 ```
+
+**Important:** Keep the descriptions detailed and specific. The AI uses these descriptions to understand exactly what camera position and composition you want.
 
 ---
 
